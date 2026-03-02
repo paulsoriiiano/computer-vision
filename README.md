@@ -1,5 +1,5 @@
 # CMPE 297 - Computer Vision
-Computer Engineering Department
+Computer Engineering Department <br>
 San José State University
 
 ## Overview
